@@ -8,16 +8,16 @@ body {
 .header {
     width: 100%;
     height: 900px;
-    background-color: #ccdef0;
+  /*  background-color: #ccdef0;
     /* #6767e0 - фиолетовый */
-    background-image: radial-gradient(circle 675px at center, #ffffff 0%, #87CEEB
+  /*  background-image: radial-gradient(circle 675px at center, #ffffff 0%, #87CEEB*/
 
  135%);
 }
 
 .container{
     width: 1170px;
-    margin-left: auto;
+    margin-left: 732px;
     margin-right: auto;
 }
 
@@ -128,7 +128,7 @@ line-height: 65px;
 }
 
 .social_item {
-  color: #000000;
+  color: #de6eff;
   text-decoration: none;
   margin-right: 30px;
 }
