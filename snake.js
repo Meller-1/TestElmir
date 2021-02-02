@@ -180,7 +180,7 @@ window.onload = function() {
     // Initialize the game
     function init() {
         // Load images
-        images = loadImages(["snake-graphics.png"]);
+        images = loadImages(["image/snake-graphics.png"]);
         tileimage = images[0];
 
         // Add mouse events
