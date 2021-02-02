@@ -1,5 +1,8 @@
 body {
-  margin: 0;
+  margin:0;
+  font-family: 'Montserrat', sans-serif;
+  background-image: radial-gradient(circle 675px at center, #ffffff 0%, #673AB7  100%);
+  font-weight: 500;
 }
 
 .game {
